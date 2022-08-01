@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-int f_series(int n){
+int fab_series(int n){
     if(n<3){
         return 1;
     }
